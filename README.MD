@@ -1,6 +1,6 @@
 # 简介
 
-本项目啊为Flutter中文网《Flutter实战》开源电子书项目，官网地址为：https://book.flutterchina.club .
+本项目为Flutter中文网《Flutter实战》开源电子书项目，官网地址为：https://book.flutterchina.club .
 
 ## 贡献须知
 
